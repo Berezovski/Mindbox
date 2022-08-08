@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\FigureTest\\FigureTest.csproj": {}
+  },
+  "projects": {
+    "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\FigureTest\\FigureTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\FigureTest\\FigureTest.csproj",
+        "projectName": "FigureTest",
+        "projectPath": "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\FigureTest\\FigureTest.csproj",
+        "packagesPath": "C:\\Users\\Alexandr\\.nuget\\packages\\",
+        "outputPath": "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\FigureTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VisualStudio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alexandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SMSLab/SMS/_packaging/SMS_Feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\Mindbox\\Mindbox.csproj": {
+                "projectPath": "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\Mindbox\\Mindbox.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\Mindbox\\Mindbox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\Mindbox\\Mindbox.csproj",
+        "projectName": "Mindbox",
+        "projectPath": "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\Mindbox\\Mindbox.csproj",
+        "packagesPath": "C:\\Users\\Alexandr\\.nuget\\packages\\",
+        "outputPath": "D:\\TMPFolder\\AspNetCore.Docs\\aspnetcore\\grpc\\test-services\\sample\\Mindbox\\Mindbox\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VisualStudio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alexandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SMSLab/SMS/_packaging/SMS_Feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

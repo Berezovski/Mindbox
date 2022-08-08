@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Mindbox
+build_property.ProjectDir = D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\

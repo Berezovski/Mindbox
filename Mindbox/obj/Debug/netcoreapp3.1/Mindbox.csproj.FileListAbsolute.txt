@@ -1,0 +1,14 @@
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\bin\Debug\netcoreapp3.1\Mindbox.exe
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\bin\Debug\netcoreapp3.1\Mindbox.deps.json
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\bin\Debug\netcoreapp3.1\Mindbox.runtimeconfig.json
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\bin\Debug\netcoreapp3.1\Mindbox.runtimeconfig.dev.json
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\bin\Debug\netcoreapp3.1\Mindbox.dll
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\bin\Debug\netcoreapp3.1\Mindbox.pdb
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\obj\Debug\netcoreapp3.1\Mindbox.csproj.AssemblyReference.cache
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\obj\Debug\netcoreapp3.1\Mindbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\obj\Debug\netcoreapp3.1\Mindbox.AssemblyInfoInputs.cache
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\obj\Debug\netcoreapp3.1\Mindbox.AssemblyInfo.cs
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\obj\Debug\netcoreapp3.1\Mindbox.csproj.CoreCompileInputs.cache
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\obj\Debug\netcoreapp3.1\Mindbox.dll
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\obj\Debug\netcoreapp3.1\Mindbox.pdb
+D:\TMPFolder\AspNetCore.Docs\aspnetcore\grpc\test-services\sample\Mindbox\Mindbox\obj\Debug\netcoreapp3.1\Mindbox.genruntimeconfig.cache
