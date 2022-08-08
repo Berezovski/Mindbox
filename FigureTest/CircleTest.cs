@@ -29,7 +29,7 @@ namespace FigureTest
         {
             try
             {
-                var circ = new Mindbox.Circle(_expected_true_raduis);
+                Mindbox.Figure circ = new Mindbox.Circle(_expected_true_raduis);
                 circ.ShowFigure();
             }
             catch

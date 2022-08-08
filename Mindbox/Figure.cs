@@ -10,7 +10,7 @@ namespace Mindbox
         protected abstract double Area { get; }
         protected abstract double Perimeter { get; }
 
-        public void ShowFigure()
+        public virtual void ShowFigure()
         {
             Console.WriteLine(
                 $"Название фигуры: {FigureName}\n" +
